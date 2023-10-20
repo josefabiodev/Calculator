@@ -8,4 +8,4 @@
 - Parâmetros para os métodos
 - Conversção de tipos
 
-- O projeto é um Projeto .NET cponsole Aplication
+>> O projeto é um Projeto .NET console Aplication
